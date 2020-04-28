@@ -2,6 +2,8 @@
 
 Create a rollup application using the command line.
 
+![example-video](https://raw.githubusercontent.com/nullwuwu/cloud-disk/master/2020-04-28112157.gif)
+
 ## Usage
 
 ```bash
