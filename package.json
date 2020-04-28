@@ -1,0 +1,26 @@
+{
+  "name": "create-rollup",
+  "version": "1.0.0",
+  "description": "Create a rollup application using the command line. ",
+  "main": "index.js",
+  "bin": {
+    "create-rollup": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier -c --write '**/*'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clipboardy": "^2.3.0",
+    "inquirer": "^7.1.0",
+    "mkdirp": "^1.0.4",
+    "node-glob": "^1.2.0",
+    "semver": "^7.3.2",
+    "yargs-parser": "^18.1.3",
+    "yeoman-environment": "^2.9.6",
+    "yeoman-generator": "^4.9.0"
+  }
+}
