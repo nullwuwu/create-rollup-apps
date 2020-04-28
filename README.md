@@ -1,4 +1,4 @@
-# create-rollup
+# create-rollup-apps
 
 Create a rollup application using the command line.
 
@@ -7,9 +7,9 @@ Create a rollup application using the command line.
 ## Usage
 
 ```bash
-$ yarn global add create-rollup
+$ yarn global add create-rollup-apps
 
-create-rollup [appName]
+create-rollup-apps [appName]
 ```
 
 ## Boilerplates
